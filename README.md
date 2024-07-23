@@ -1,4 +1,4 @@
-<p>
+<p align="center">
 <samp>
 <a href="https://baraqkamsani.com">Website</a> •
 <a href="https://baraqkamsani.com/blog">Blog</a> •
